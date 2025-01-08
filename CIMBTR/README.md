@@ -27,7 +27,6 @@ The dataset is provided by the **Center for International Blood and Marrow Trans
 ## 🔎 Project Workflow
 
 ### 📌 1. Installing Libraries and Loading Dataset
-📌 *(TODO: Add relevant image or dataset preview here)*  
 
 ---
 
